@@ -1,0 +1,4 @@
+,wellpop_1km,wellpop_2km,wellpop_5km
+wellpop_1km,1.0,0.895,0.755
+wellpop_2km,0.895,1.0,0.878
+wellpop_5km,0.755,0.878,1.0
